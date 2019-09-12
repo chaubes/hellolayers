@@ -1,8 +1,8 @@
-#hellolayers: Example Lambda Layer built using serverless framework
+# hellolayers: Example Lambda Layer built using serverless framework
 
 Referenced in the blog post https://blog.saurabhchaubey.com/post/aws-layers/
 
-##Licence
+## Licence
 
 The MIT License (MIT)
 
